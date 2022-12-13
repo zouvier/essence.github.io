@@ -642,6 +642,10 @@ video {
   font-size: 0.813rem;
 }
 
+.text-\[0\.75rem\] {
+  font-size: 0.75rem;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -652,6 +656,10 @@ video {
 
 .leading-8 {
   line-height: 2rem;
+}
+
+.tracking-\[0\.313rem\] {
+  letter-spacing: 0.313rem;
 }
 
 .text-body-gray {
